@@ -25,8 +25,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/yourusername/file-storage-service.git
-    cd file-storage-service
+    git clone https://github.com/Pahanuchek/FileRepository.git
+    cd FileRepository
     ```
 
 2. **Соберите проект с помощью Maven:**
